@@ -21,9 +21,12 @@
 
 ![image](https://github.com/verxek/creative_work/assets/88082592/1645df5c-c0de-4c93-bcc1-4819aa662775)
 
-## Демонстрация удаления
+### Демонстрация удаления
 Удаление заказа от 24.06
+
 ![image](https://github.com/verxek/creative_work/assets/88082592/25ab60a0-dfa4-422c-9da7-17ce51f0947f)
 ![image](https://github.com/verxek/creative_work/assets/88082592/1c4f5653-a9f3-4085-bd80-016eee1c6f29)
+
+## Диаграмма классов
 
 
