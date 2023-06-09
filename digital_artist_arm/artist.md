@@ -28,5 +28,8 @@
 ![image](https://github.com/verxek/creative_work/assets/88082592/1c4f5653-a9f3-4085-bd80-016eee1c6f29)
 
 ## Диаграмма классов
+![image](https://github.com/verxek/creative_work/assets/88082592/8ed7b10a-a785-4897-9b87-c0a82cfa953d)
 
+## Исходный код
+Исходный код представлен в репозитории: 
 
