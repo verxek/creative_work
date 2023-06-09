@@ -12,7 +12,12 @@
 ![image](https://github.com/verxek/creative_work/assets/88082592/cf9fad73-4e94-4bc1-ba0c-57ec4c9c0723)
 ![image](https://github.com/verxek/creative_work/assets/88082592/79d304e1-179b-4ba7-b53d-0fabfcd4668a)
 
+## Результаты работы программы
+
+![image](https://github.com/verxek/creative_work/assets/88082592/cfb1256d-1ea0-4fc3-9ed4-033134e0fc81)
 
 ## Диаграмма классов
 ![comm drawio](https://github.com/verxek/creative_work/assets/88082592/2ecbbfd1-2561-4087-8fb9-7f5119abb523)
 
+## Исходный код
+Исходный код представлен в репозитории: 
