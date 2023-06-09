@@ -31,5 +31,4 @@
 ![image](https://github.com/verxek/creative_work/assets/88082592/8ed7b10a-a785-4897-9b87-c0a82cfa953d)
 
 ## Исходный код
-Исходный код представлен в репозитории: 
-
+Исходный код представлен в репозитории: https://github.com/verxek/creative_work/tree/main/digital_artist_arm/ex2
