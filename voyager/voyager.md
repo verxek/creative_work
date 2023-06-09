@@ -20,4 +20,4 @@
 ![comm drawio](https://github.com/verxek/creative_work/assets/88082592/2ecbbfd1-2561-4087-8fb9-7f5119abb523)
 
 ## Исходный код
-Исходный код представлен в репозитории: 
+Исходный код представлен в репозитории:  https://github.com/verxek/creative_work/tree/main/voyager/comm
