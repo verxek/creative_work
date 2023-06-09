@@ -16,4 +16,8 @@
 ### Главное окно
 ![image](https://github.com/verxek/creative_work/assets/88082592/9423696d-c2f1-45d5-8a05-ef94e9056c54)
 
+### Демонстрация добавления
+![image](https://github.com/verxek/creative_work/assets/88082592/acdc00e2-0383-432b-a368-f07c30c81df4)
+
+![image](https://github.com/verxek/creative_work/assets/88082592/1645df5c-c0de-4c93-bcc1-4819aa662775)
 
